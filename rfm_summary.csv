@@ -1,0 +1,8 @@
+segment,customers,revenue,avg_spend,avg_days_since_last_order
+"New Big Spenders",14404,4353221,302.2,91
+"At Risk - High Value",13784,4242070,307.8,393
+"Needs Attention",18069,2737019,151.5,219
+Lost,22564,1640585,72.7,395
+"New Customers",21735,1585210,72.9,89
+"Loyal - At Risk",1598,476292,298.1,319
+Champions,1203,388065,322.6,88
