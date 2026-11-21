@@ -45,7 +45,11 @@ RFM segmentation: Recency and Monetary scored 1 to 5 with `NTILE(5)`. Frequency 
 Delivery impact: compared the first order of each customer (late versus on time) on review score and repeat rate.
 
 <img width="1397" height="756" alt="Olist retention" src="https://github.com/user-attachments/assets/b2e704a7-95a1-4817-93f2-ff36af18fc6c" />
-<img width="1090" height="691" alt="image" src="https://github.com/user-attachments/assets/c32c32cf-5708-4705-926e-e2582822aa76" />
+<img width="930" height="806" alt="image" src="https://github.com/user-attachments/assets/b17bf255-c538-42cd-b370-6121bf9ee2c7" />
+<img width="932" height="811" alt="image" src="https://github.com/user-attachments/assets/b3196c65-205f-402c-ba31-cf5ffb47107d" />
+<img width="927" height="810" alt="image" src="https://github.com/user-attachments/assets/ae92ed00-58d3-4496-82da-6304e55a57e2" />
+
+
 
 
 Dashboard file: `dashboard/olist_retention_dashboard.pbix`
